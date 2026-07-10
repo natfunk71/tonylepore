@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Direct link to your sitemap so crawlers find it instantly
+Sitemap: https://github.com/natfunk71/tonylepore.git
